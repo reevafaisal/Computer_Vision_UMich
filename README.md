@@ -4,6 +4,9 @@ Language: C++
 ## Overview
 This project focuses on implementing a content-aware image resizing program using the seam carving algorithm in C++. The objective is to resize images by intelligently removing or adding seams (paths of least importance) without distorting the content. This approach helps in preserving the essential features of the image better than traditional scaling methods.
 
+## Note
+Due to university policy, I cannot share the assignment-specific files, though it is available for viewing upon request.
+
 ## Project Structure
 The project is organized into several modules, each responsible for a specific part of the seam carving process:
 
